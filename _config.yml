@@ -2,7 +2,7 @@ title: Ivan Hephaestus
 description: > # this means to ignore newlines until "baseurl:"
   Just a webpage for different kind of crap
 permalink: ':title/'
-baseurl: "/ivanhephaestus.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/IvanHephaestus/" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
