@@ -7,9 +7,9 @@ url: "https://github.com/IvanHephaestus/" # the base hostname & protocol for you
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: IvanHephaestus
-author-img: david-freeman.jpg # add your photo
-about-author: static void __init init(const char *args, ...)
+author: Ivan Hephaestus
+author-img: hephaestus.png # add your photo
+about-author: Just for fun!
 social-github: ivanhephaestus 
 social-email: gefestroyale@gmail.com
 
